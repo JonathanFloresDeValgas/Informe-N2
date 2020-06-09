@@ -45,6 +45,8 @@ Para el análisis de mallas, se debe tener muy en cuenta cada uno de sus compone
 
 6.- CONCLUSIONES
 
+Finalizada la práctica, se concluye que implementar una resistencia diferente de su posición (sea en serie o paralelo) en el circuito puede llegar a alterar los valores de corriente de todos los componentes, además de su utilidad en la misma. Por lo que para los resistores de 820 Ohm, 1.2kOhm, 390Ohm, 1kOhm y 2.2kOhm no se obtendrían estos valores de corriente de 11.5mA, 2.85mA, 488μA, 8.61mA, y 2.36mA respectivamente.
+
 7.- RECOMENDACIONES
 
 Se recomienda que para un correcto análisis de la malla, se tenga muy en cuenta en valor de cada resistencia (prefijos) y su posición con respecto a los demás componentes, además de identificar la  ¨división de secciones¨ por nodos, por lo que puede influir notoriamente el determinar si uno o más componentes se enlazan por un mismo nodo. 
