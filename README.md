@@ -53,6 +53,8 @@ Se recomienda que para un correcto análisis de la malla, se tenga muy en cuenta
 
 9.- BIBLIOGRAFÍA
 
+-Sadiku Matthew N. (2006). Fundamentos de Circuitos Eléctricos. McGraw-Hill Interamericana. México D. F. 
+
 10.- ANEXOS
 
 11.- HOJAS TÉCNICAS 
