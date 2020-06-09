@@ -43,6 +43,9 @@ Para el análisis de mallas, se debe tener muy en cuenta cada uno de sus compone
 Se recomienda que para un correcto análisis de la malla, se tenga muy en cuenta en valor de cada resistencia (prefijos) y su posición con respecto a los demás componentes, además de identificar la  ¨división de secciones¨ por nodos, por lo que puede influir notoriamente el determinar si uno o más componentes se enlazan por un mismo nodo. 
 
 8.- CRONOGRAMA
+
 9.- BIBLIOGRAFÍA
+
 10.- ANEXOS
+
 11.- HOJAS TÉCNICAS 
