@@ -4,7 +4,7 @@ UNIVERSIDAD DE LAS FUERZAS ARMADAS ESPE
 
 ¨Práctica N°2 de Laboratorio¨  
 ¨Fundamentos de Circuitos Eléctricos¨  
-Integrantes: Jerez Bradd; Sangoquiza Andrés; Zambrano Oliver.  
+Integrantes: Jerez Bradd; Sangoquiza Andrés; Flores De Valgas Jonathan.  
 NRC: 8702   
 Fecha: 2020 - 06 - 09  
 
