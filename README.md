@@ -9,13 +9,13 @@
 
 Gneral. 
 
-*Comprobar experimentalmente el analisis de mayas y poder establecer una relación entreel uso de la Ley de Ohm y las Leyes de Kirchoff   con ésta.
+* Comprobar experimentalmente el analisis de mayas y poder establecer una relación entreel uso de la Ley de Ohm y las Leyes de Kirchoff   con ésta.
 
 Especificos. 
 
-*Entender las conexiones a realizar y comprender la forma de usar la plataforma Tinkercad y sus herramientas. 
-*Identificar la forma correcta de medición decorriente y voltaje con el multímetro digital para circuitos resistivos, y los analizados por mayas.
-*Comparar los cálculos teóricos con los medidos de tensión, corriente y de resistencias, y obtener el margen deerror.
+* Entender las conexiones a realizar y comprender la forma de usar la plataforma Tinkercad y sus herramientas. 
+* Identificar la forma correcta de medición decorriente y voltaje con el multímetro digital para circuitos resistivos, y los analizados por mayas.
+* Comparar los cálculos teóricos con los medidos de tensión, corriente y de resistencias, y obtener el margen deerror.
 
 3.-MARCO TEÓRICO
 
