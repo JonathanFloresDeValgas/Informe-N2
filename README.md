@@ -24,6 +24,8 @@ Para el análisis de mallas, se debe tener muy en cuenta cada uno de sus compone
 
 4.- Diagramas.
 
+![](https://github.com/BraddJCJ/Informe2_JEREZ_SANGOQUIZA_ZAMBRANO/blob/master/img/Diagrama.png)
+
 5.- Lista de componentes.
 
 * 1 Resistor  R1  820ohm
