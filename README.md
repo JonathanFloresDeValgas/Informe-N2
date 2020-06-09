@@ -5,7 +5,7 @@
 
 ¿Qué valores de corriente y cuantas corrientes se encontrarán en el análisis de esta malla?¿Será necesario aplicar los conceptos de Ley de Tensión de Kirchhoff (LTK), las Leyes de corriente de Kirchhoff (LCK) y ley de Ohm, para un correcto análisis esta malla?
 
-# 2.- OBJETIVO.
+2.- OBJETIVO.
 
 Gneral. 
 
