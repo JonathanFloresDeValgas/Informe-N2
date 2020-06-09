@@ -26,10 +26,11 @@ Para el análisis de mallas, se debe tener muy en cuenta cada uno de sus compone
 
 5.- Lista de componentes.
 
-* 1 Resistor  R1  820ohm
-* 1 Resistor  R2  1.2kohm 
-* 1 Resistor  R3  1kohm
-* 1 Resistor  R4  390ohm 
-* 1 Resistor  R5 2.2kohm
-* 2 Fuentes de voltaje  V1 y V2 18v y 5v.
-* n Multimetros
+|1 Resistor | R1  820ohm|
+|1 Resistor | R2  1.2kohm| 
+|1 Resistor | R3  1kohm|
+|1 Resistor | R4  390ohm| 
+|1 Resistor | R5 2.2kohm|
+|2 Fuentes de voltaje|  V1 y V2 18v y 5v.|
+|n Multimetros|
+
