@@ -59,4 +59,9 @@ Se recomienda que para un correcto análisis de la malla, se tenga muy en cuenta
 
 10.- ANEXOS
 
+![](https://github.com/BraddJCJ/Informe2_JEREZ_SANGOQUIZA_ZAMBRANO/blob/master/img/img172_page-0001.jpg)
+
+![](https://github.com/BraddJCJ/Informe2_JEREZ_SANGOQUIZA_ZAMBRANO/blob/master/img/img173_page-0001.jpg)
+
+
 11.- HOJAS TÉCNICAS 
