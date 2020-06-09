@@ -26,7 +26,7 @@ Para el análisis de mallas, se debe tener muy en cuenta cada uno de sus compone
 
 5.- Lista de componentes.
 
-| 1 Resistor - R1  820ohm |
+ -1 Resistor - R1  820ohm-
 
 | 1 Resistor | R2  1.2kohm | 
 | 1 Resistor | R3  1kohm |
