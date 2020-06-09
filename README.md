@@ -1,5 +1,12 @@
-# Informe2_JEREZ_SANGOQUIZA_ZAMBRANO
+UNIVERSIDAD DE LAS FUERZAS ARMADAS ESPE
 
+![](https://github.com/BraddJCJ/Informe2_JEREZ_SANGOQUIZA_ZAMBRANO/blob/master/img/Logo_ESPE.png)
+
+¨Práctica N°2 de Laboratorio¨  
+¨Fundamentos de Circuitos Eléctricos¨  
+Integrantes: Jerez Bradd; Sangoquiza Andrés; Zambrano Oliver.  
+NRC: 8702   
+Fecha: 2020 - 06 - 09  
 
 1.- PLANTEAMIENTO DEL PROBLEMA
 
