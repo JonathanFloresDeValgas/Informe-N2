@@ -54,7 +54,7 @@ Se recomienda que para un correcto análisis de la malla, se tenga muy en cuenta
 
 8.- CRONOGRAMA
 
-![](https://github.com/BraddJCJ/Informe2_JEREZ_SANGOQUIZA_ZAMBRANO/blob/master/img/cronograma%202.0.jpg)
+![](https://github.com/BraddJCJ/Informe2_JEREZ_SANGOQUIZA_ZAMBRANO/blob/master/img/Cronograma%20-%20Ex.png)
 
 9.- BIBLIOGRAFÍA
 
