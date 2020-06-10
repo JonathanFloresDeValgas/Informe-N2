@@ -61,6 +61,10 @@ Se recomienda que para un correcto análisis de la malla, se tenga muy en cuenta
 
 10.- ANEXOS
 
+Implementos utilizados:
+
+![](https://github.com/BraddJCJ/Informe2_JEREZ_SANGOQUIZA_ZAMBRANO/blob/master/img/cronograma.jpg)
+
  Implemente el circuito que se presenta en la figura 2.1
  
  ![](https://github.com/BraddJCJ/Informe2_JEREZ_SANGOQUIZA_ZAMBRANO/blob/master/img/circuito.png)
@@ -72,6 +76,10 @@ Se recomienda que para un correcto análisis de la malla, se tenga muy en cuenta
    Tabla 2.1. Resultados obtenidos para el circuito de la figura 2.1.
    
 ![](https://github.com/BraddJCJ/Informe2_JEREZ_SANGOQUIZA_ZAMBRANO/blob/master/img/Tabla.jpg)
+
+Simulacionn de los valores en Tinkercad:
+
+![](https://github.com/BraddJCJ/Informe2_JEREZ_SANGOQUIZA_ZAMBRANO/blob/master/img/simulacion.jpg)
 
 Calculo de errores en las corrientes analizada y  las obtenidas:
 
