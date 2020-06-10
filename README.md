@@ -4,7 +4,7 @@ UNIVERSIDAD DE LAS FUERZAS ARMADAS ESPE
 
 ¨Práctica N°2 de Laboratorio¨  
 ¨Fundamentos de Circuitos Eléctricos¨  
-Integrantes: Jerez Bradd; Sangoquiza Andrés; Flores De Valgas Jonathan.  
+Integrantes: Jerez Bradd; Sangoquiza Andrés; Zambrano Oliver.  
 NRC: 8702   
 Fecha: 2020 - 06 - 09  
 
@@ -53,15 +53,35 @@ Se recomienda que para un correcto análisis de la malla, se tenga muy en cuenta
 
 8.- CRONOGRAMA
 
+![](https://github.com/BraddJCJ/Informe2_JEREZ_SANGOQUIZA_ZAMBRANO/blob/master/img/cronograma.jpg)
+
 9.- BIBLIOGRAFÍA
 
 -Sadiku Matthew N. (2006). Fundamentos de Circuitos Eléctricos. McGraw-Hill Interamericana. México D. F. 
 
 10.- ANEXOS
 
+ Implemente el circuito que se presenta en la figura 2.1
+ 
+ ![](https://github.com/BraddJCJ/Informe2_JEREZ_SANGOQUIZA_ZAMBRANO/blob/master/img/circuito.png)
+ 
+  Mida cada una de las corrientes de malla y anote los resultados en la tabla 2.1.
+  
+   Compare los valores de la tabla 2.1 y realice sus conclusiones.
+   
+   Tabla 2.1. Resultados obtenidos para el circuito de la figura 2.1.
+   
+![](https://github.com/BraddJCJ/Informe2_JEREZ_SANGOQUIZA_ZAMBRANO/blob/master/img/Tabla.jpg)
+
+Calculo de errores en las corrientes analizada y  las obtenidas:
+
+![](https://github.com/BraddJCJ/Informe2_JEREZ_SANGOQUIZA_ZAMBRANO/blob/master/img/errores.jpg)
+
+Calculos analiticos:
+
 ![](https://github.com/BraddJCJ/Informe2_JEREZ_SANGOQUIZA_ZAMBRANO/blob/master/img/img172_page-0001.jpg)
 
 ![](https://github.com/BraddJCJ/Informe2_JEREZ_SANGOQUIZA_ZAMBRANO/blob/master/img/img173_page-0001.jpg)
 
 
-11.- HOJAS TÉCNICAS 
+
